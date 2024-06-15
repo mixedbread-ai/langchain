@@ -64,9 +64,6 @@ if TYPE_CHECKING:
     from langchain_community.embeddings.elasticsearch import (
         ElasticsearchEmbeddings,
     )
-    from langchain_community.embeddings.embaas import (
-        EmbaasEmbeddings,
-    )
     from langchain_community.embeddings.ernie import (
         ErnieEmbeddings,
     )
@@ -250,7 +247,6 @@ __all__ = [
     "DeterministicFakeEmbedding",
     "EdenAiEmbeddings",
     "ElasticsearchEmbeddings",
-    "EmbaasEmbeddings",
     "ErnieEmbeddings",
     "FakeEmbeddings",
     "FastEmbedEmbeddings",
@@ -331,7 +327,6 @@ _module_lookup = {
     "DeterministicFakeEmbedding": "langchain_community.embeddings.fake",
     "EdenAiEmbeddings": "langchain_community.embeddings.edenai",
     "ElasticsearchEmbeddings": "langchain_community.embeddings.elasticsearch",
-    "EmbaasEmbeddings": "langchain_community.embeddings.embaas",
     "ErnieEmbeddings": "langchain_community.embeddings.ernie",
     "FakeEmbeddings": "langchain_community.embeddings.fake",
     "FastEmbedEmbeddings": "langchain_community.embeddings.fastembed",

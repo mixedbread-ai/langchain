@@ -2976,10 +2976,6 @@
     "langchain_community.embeddings.DashScopeEmbeddings"
   ],
   [
-    "langchain.embeddings.EmbaasEmbeddings",
-    "langchain_community.embeddings.EmbaasEmbeddings"
-  ],
-  [
     "langchain.embeddings.OctoAIEmbeddings",
     "langchain_community.embeddings.OctoAIEmbeddings"
   ],
@@ -3098,10 +3094,6 @@
   [
     "langchain.embeddings.elasticsearch.ElasticsearchEmbeddings",
     "langchain_community.embeddings.ElasticsearchEmbeddings"
-  ],
-  [
-    "langchain.embeddings.embaas.EmbaasEmbeddings",
-    "langchain_community.embeddings.EmbaasEmbeddings"
   ],
   [
     "langchain.embeddings.ernie.ErnieEmbeddings",

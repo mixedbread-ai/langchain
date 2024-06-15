@@ -38,7 +38,6 @@ EXPECTED_ALL = [
     "DeepInfraEmbeddings",
     "EdenAiEmbeddings",
     "DashScopeEmbeddings",
-    "EmbaasEmbeddings",
     "OctoAIEmbeddings",
     "SpacyEmbeddings",
     "NLPCloudEmbeddings",
